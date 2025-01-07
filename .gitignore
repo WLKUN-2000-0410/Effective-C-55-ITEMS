@@ -39,3 +39,6 @@ x86/
 # Packages
 packages/
 *.nupkg
+
+# Visual Studio database files
+*.VC.db
