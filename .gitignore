@@ -42,3 +42,4 @@ packages/
 
 # Visual Studio database files
 *.VC.db
+*.VC.opendb
